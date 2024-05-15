@@ -17,5 +17,4 @@ Skills
 ======
 * Python
 * Java
-* LLM
 
